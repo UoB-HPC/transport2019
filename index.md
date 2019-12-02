@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Boltzmann transport applications meeting
+Wednesday 4th December 2019: 10:00 - 16:00
 
-You can use the [editor on GitHub](https://github.com/UoB-HPC/transport2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The meeting is centred on bringing together academics and industry that work on solving Boltzmann-type problems in a range of different application areas. The idea behind this meeting is to try and foster collaboration between different disciplines, to exchange knowledge on methods and tools and help improve all our abilities in tackling difficult multi-dimensional Boltzmann problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This year, the meeting will be hosted by the Applied Computational and Modelling Group (AMCG) at Imperial College London and we believe would be of interest to mathematicians, scientists and engineers in fields as diverse as:
+- Nuclear engineering
+- Radiative transfer in different disciplines
+- Lattice Boltzmann methods for fluids
+- Astrophysics
+- Vlasov/Boltzmann equations
+- Spectral wave modelling
+- Medical radiation
+- Reduced order modelling for Boltzmann applications
 
-### Markdown
+The meeting will be comprised of a series of 20-30 minute talks, along with focused discussion sessions. The first talk in the morning session will give an introduction to Boltzmann transport modelling in different applications, with the aim of setting a common language to facilitate discussions that follow.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Location
+```
+Imperial College London
+Royal School of Mines building
+RSM 1.51 (Level 1)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Organisers
+[Steven Dargaville](https://www.imperial.ac.uk/people/s.dargaville) (Imperial College London) and [Tom Deakin](http://www.tomdeakin.com/cs/) (University of Bristol)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UoB-HPC/transport2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Agenda
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Contact
+
+Please email the organisers: [Steven Dargaville and Tom Deakin](mailto:s.dargaville@imperial.ac.uk,tom.deakin@bristol.ac.uk).
