@@ -110,6 +110,7 @@ RSM 1.51 (Level 1)
   </tr>
   
   <tr><td colspan="3"><b>Lattice Boltzmann</b></td></tr>
+  <tr>
   <td>15:50 - 16:20</td>
   <td>TBC</td>
   <td></td>
