@@ -1,4 +1,6 @@
 title: Boltzmann transport applications meeting
 description: Wednesday 4th December, 2019
 show_downloads: false
+github:
+  is_project_page: false
 theme: jekyll-theme-cayman
