@@ -1,5 +1,5 @@
 ## Boltzmann transport applications meeting
-Wednesday 4th December 2019: 10:00 - 16:30
+10:00 - 16:30, Wednesday 4th December 2019
 
 The meeting is centred on bringing together academics and industry that work on solving Boltzmann-type problems in a range of different application areas. The idea behind this meeting is to try and foster collaboration between different disciplines, to exchange knowledge on methods and tools and help improve all our abilities in tackling difficult multi-dimensional Boltzmann problems.
 
