@@ -94,19 +94,24 @@ RSM 1.51 (Level 1)
  
   <tr><td colspan="3"><b>Multiphysics and coupling</b></td></tr>
   <tr>
-  <td>14:50 - 15:20</td>
+  <td>14:50 - 15:10</td>
   <td>Positivity preserving schemes</td>
   <td>Richard Smedley-Stevenson</td>
   </tr>
   <tr>
-  <td>15:20 - 15:50</td>
+  <td>15:10 - 15:30</td>
+  <td>Multiphase fluids coupling</td>
+  <td>Liang Yang</td>
+  </tr>
+  <tr>
+  <td>15:30 - 15:50</td>
   <td>Boltzmann multiphysics</td>
   <td>Chris Pain</td>
   </tr>
   
   <tr><td colspan="3"><b>Boltzmann discussion</b></td></tr>
   <tr>
-  <td>15:50 - 16:30</td>
+  <td>15:50 - 16:00</td>
   <td>Discussion and wrap up</td>
   <td></td>
   </tr>
