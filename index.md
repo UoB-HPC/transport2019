@@ -22,6 +22,7 @@ Imperial College London
 Royal School of Mines building
 RSM 1.51 (Level 1)
 ```
+[Map](https://goo.gl/maps/XHnmV2xEwhuS2ma28)
 
 ### Organisers
 [Steven Dargaville](https://www.imperial.ac.uk/people/s.dargaville) (Imperial College London) and [Tom Deakin](http://www.tomdeakin.com/cs/) (University of Bristol)
