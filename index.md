@@ -40,7 +40,7 @@ RSM 1.51 (Level 1)
   <tr>
   <td>10:00 - 10:30</td>
   <td>Welcome and tea & coffee</td>
-  <td>Tom Deakin</td>
+  <td>Tom Deakin and Steven Dargaville</td>
   </tr>
   <tr>
   <td>10:30 - 11:00</td>
