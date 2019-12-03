@@ -1,5 +1,5 @@
 ## Boltzmann transport applications meeting
-10:00 - 16:30, Wednesday 4th December 2019
+10:00 - 16:00, Wednesday 4th December 2019
 
 The meeting is centred on bringing together academics and industry that work on solving Boltzmann-type problems in a range of different application areas. The idea behind this meeting is to try and foster collaboration between different disciplines, to exchange knowledge on methods and tools and help improve all our abilities in tackling difficult multi-dimensional Boltzmann problems.
 
@@ -84,11 +84,6 @@ RSM 1.51 (Level 1)
   <td>Neural networks and ROM</td>
   <td>Toby Phillips</td>
   </tr>
-  <tr>
-  <td>14:30 - 15:00</td>
-  <td>TBC</td>
-  <td></td>
-  </tr>
 
   <tr><td colspan="3"></td></tr>
   <tr>
@@ -109,10 +104,10 @@ RSM 1.51 (Level 1)
   <td>Chris Pain</td>
   </tr>
   
-  <tr><td colspan="3"><b>Lattice Boltzmann</b></td></tr>
+  <tr><td colspan="3"><b>Boltzmann discussion</b></td></tr>
   <tr>
-  <td>15:50 - 16:20</td>
-  <td>TBC</td>
+  <td>15:50 - 16:30</td>
+  <td>Discussion and wrap up</td>
   <td></td>
   </tr>
   
