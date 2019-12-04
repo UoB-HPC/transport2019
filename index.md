@@ -147,8 +147,8 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript"></script>
 <link  href="https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
 <script  type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
-<div id="nanogallery2" data-nanogallery2 = '{"thumbnailHeight":  150, "thumbnailWidth":   150, "itemsBaseURL":     "photos/"}' >
-                      
+<div id="nanogallery2" data-nanogallery2 = '{"thumbnailHeight":  150, "thumbnailWidth":   150, "itemsBaseURL": "https://uob-hpc.github.io/transport2019/photos/"}' >
+
 <!-- gallery content -->
 <a href = "IMG_2820.jpeg"   data-ngThumb = "IMG_2820.jpeg" > Photo 01 </a>
 <a href = "IMG_2821.jpeg"   data-ngThumb = "IMG_2821.jpeg" > Photo 02 </a>
