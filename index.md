@@ -29,6 +29,7 @@ RSM 1.51 (Level 1)
 
 
 ### Agenda
+This is the rough plan for the day, but the timings are flexible to allow plenty of time for discussions.
 <table>
   <tr>
     <th>Time</th>
@@ -40,11 +41,15 @@ RSM 1.51 (Level 1)
   
   <tr>
   <td>10:00 - 10:30</td>
-  <td>Welcome and tea & coffee</td>
+  <td colspan="2">Arrival and tea & coffee</td>
+  </tr>
+  <tr>
+  <td>10:30 - 10:50</td>
+  <td>Welcome and Introductions</td>
   <td>Tom Deakin and Steven Dargaville</td>
   </tr>
   <tr>
-  <td>10:30 - 11:00</td>
+  <td>10:50 - 11:20</td>
   <td>General Boltzmann & applications</td>
   <td>Steven Dargaville</td>
   </tr>
