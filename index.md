@@ -49,7 +49,7 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   <td>Tom Deakin and Steven Dargaville</td>
   </tr>
   <tr>
-  <td>10:50 - 11:20</td>
+  <td>10:50 - 11:25</td>
   <td>General Boltzmann & applications</td>
   <td>Steven Dargaville</td>
   </tr>
@@ -57,17 +57,17 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   <tr><td colspan="3"><b>Neutronics and nuclear applications</b></td></tr>
   
   <tr>
-  <td>11:20 - 11:45</td>
+  <td>11:25 - 11:50</td>
   <td>Adaptivity for Boltzmann</td>
   <td>Giannis Nikiteas</td>
   </tr>
   <tr>
-  <td>11:45 - 12:10</td>
+  <td>11:50 - 12:15</td>
   <td>Transport on many-core architectures</td>
   <td>Tom Deakin</td>
   </tr>
   <tr>
-  <td>12:10 - 12:35</td>
+  <td>12:15 - 12:40</td>
   <td>Industry requirements in nuclear applications</td>
   <td>Paul Smith</td>
   </tr>
