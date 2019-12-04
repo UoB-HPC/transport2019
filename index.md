@@ -1,5 +1,5 @@
 ## Boltzmann transport applications meeting
-10:00 - 16:00, Wednesday 4th December 2019
+10:00 - 16:30, Wednesday 4th December 2019
 
 The meeting is centred on bringing together academics and industry that work on solving Boltzmann-type problems in a range of different application areas. The idea behind this meeting is to try and foster collaboration between different disciplines, to exchange knowledge on methods and tools and help improve all our abilities in tackling difficult multi-dimensional Boltzmann problems.
 
@@ -120,12 +120,12 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   <td>Liang Yang</td>
   </tr>
   <tr>
-  <td>15:35 - 15:50</td>
+  <td>15:35 - 15:55</td>
   <td>Plasma physics applications</td>
   <td>Aidan Cilly & Brian Appelbe</td>
   </tr>
   <tr>
-  <td>15:50 - 16:05</td>
+  <td>15:55 - 16:20</td>
   <td>Boltzmann multiphysics</td>
   <td>Chris Pain</td>
   </tr>
