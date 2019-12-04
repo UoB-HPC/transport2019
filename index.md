@@ -86,24 +86,24 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   
   <tr><td colspan="3"><b>Reduced order modelling</b></td></tr>
   <tr>
-  <td>13:35 - 13:50</td>
+  <td>13:35 - 13:55</td>
   <td>POD for neutronics</td>
   <td>Claire Heaney</td>
   </tr>
   <tr>
-  <td>13:50 - 14:05</td>
+  <td>13:55 - 14:15</td>
   <td>Neural networks and ROM</td>
   <td>Toby Phillips</td>
   </tr>
   <tr>
-  <td>14:05 - 14:20</td>
+  <td>14:15 - 14:35</td>
   <td>ROM for neutronics</td>
   <td>Andrew Buchan</td>
   </tr>
   
   <tr><td colspan="3"></td></tr>
   <tr>
-  <td>14:20 - 14:50</td>
+  <td>14:35 - 14:50</td>
   <td colspan="2"><b>Tea break</b></td>
   </tr>
   <tr><td colspan="3"></td></tr>
