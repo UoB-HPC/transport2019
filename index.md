@@ -72,14 +72,14 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   <td>Paul Smith</td>
   </tr>
   <tr>
-  <td>12:25 - 12:40</td>
+  <td>12:25 - 12:45</td>
   <td>Neutronics at ISIS</td>
   <td>Steve Lilley</td>
   </tr>
   
   <tr><td colspan="3"></td></tr>
   <tr>
-  <td>12:40 - 13:30</td>
+  <td>12:45 - 13:30</td>
   <td colspan="2"><b>Lunch</b></td>
   </tr>
   <tr><td colspan="3"></td></tr>
