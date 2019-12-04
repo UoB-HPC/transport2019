@@ -135,6 +135,10 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
 </table>
 
 
+### Boltzmann challenges questionnaire
+
+Go to [the poll](https://www.menti.com), using code `66 56 07`.
+
 
 ### Contact
 
