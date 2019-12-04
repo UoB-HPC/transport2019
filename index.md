@@ -144,23 +144,42 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
 <img src="survey.png"/>
 
 ### Photos
-![photo01](photos/IMG_2820.jpeg)
-![photo02](photos/IMG_2821.jpeg)
-![photo03](photos/IMG_2822.jpeg)
-![photo04](photos/IMG_2823.jpeg)
-![photo05](photos/IMG_2824.jpeg)
-![photo06](photos/IMG_2825.jpeg)
-![photo07](photos/IMG_2826.jpeg)
-![photo08](photos/IMG_2827.jpeg)
-![photo09](photos/IMG_2828.jpeg)
-![photo10](photos/IMG_2830.jpeg)
-![photo11](photos/IMG_2831.jpeg)
-![photo12](photos/IMG_2832.jpeg)
-![photo13](photos/IMG_2833.jpeg)
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript"></script>
+
+<!-- nanogallery2 -->
+<link  href="https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+<script  type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
+<!-- ### start of the gallery definition ### -->
+<div id="nanogallery2"
+
+  /* gallery settings */
+  data-nanogallery2 = '{
+  "thumbnailHeight":  150,
+  "thumbnailWidth":   150,
+  "itemsBaseURL":     "photos/"
+}' >
+                      
+<!-- gallery content -->
+<a href = "IMG_2820.jpeg"   data-ngThumb = "IMG_2820.jpeg" > Photo 01 </a>
+<a href = "IMG_2821.jpeg"   data-ngThumb = "IMG_2821.jpeg" > Photo 02 </a>
+<a href = "IMG_2822.jpeg"   data-ngThumb = "IMG_2822.jpeg" > Photo 03 </a>
+<a href = "IMG_2823.jpeg"   data-ngThumb = "IMG_2823.jpeg" > Photo 04 </a>
+<a href = "IMG_2824.jpeg"   data-ngThumb = "IMG_2824.jpeg" > Photo 05 </a>
+<a href = "IMG_2825.jpeg"   data-ngThumb = "IMG_2825.jpeg" > Photo 06 </a>
+<a href = "IMG_2826.jpeg"   data-ngThumb = "IMG_2826.jpeg" > Photo 07 </a>
+<a href = "IMG_2827.jpeg"   data-ngThumb = "IMG_2827.jpeg" > Photo 08 </a>
+<a href = "IMG_2828.jpeg"   data-ngThumb = "IMG_2828.jpeg" > Photo 09 </a>
+<a href = "IMG_2830.jpeg"   data-ngThumb = "IMG_2830.jpeg" > Photo 10 </a>
+<a href = "IMG_2831.jpeg"   data-ngThumb = "IMG_2831.jpeg" > Photo 11 </a>
+<a href = "IMG_2832.jpeg"   data-ngThumb = "IMG_2832.jpeg" > Photo 12 </a>
+<a href = "IMG_2833.jpeg"   data-ngThumb = "IMG_2833.jpeg" > Photo 13 </a>
+
+</div>
+<!-- ### end of the gallery definition ### -->
+
 
 ### Contact
 
 Please email the organisers: [Steven Dargaville and Tom Deakin](mailto:s.dargaville@imperial.ac.uk,tom.deakin@bristol.ac.uk).
 
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
