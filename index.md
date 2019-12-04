@@ -158,10 +158,9 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
 ![photo12](photos/IMG_2832.jpeg)
 ![photo13](photos/IMG_2833.jpeg)
 
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
-
-
 ### Contact
 
 Please email the organisers: [Steven Dargaville and Tom Deakin](mailto:s.dargaville@imperial.ac.uk,tom.deakin@bristol.ac.uk).
+
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
