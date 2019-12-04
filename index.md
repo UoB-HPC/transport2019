@@ -45,7 +45,7 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   </tr>
   <tr>
   <td>10:30 - 10:50</td>
-  <td>Welcome and Introductions</td>
+  <td><a href="slides/welcome.pdf">Welcome and Introductions</a></td>
   <td>Tom Deakin and Steven Dargaville</td>
   </tr>
   <tr>
