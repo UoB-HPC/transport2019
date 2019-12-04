@@ -73,7 +73,7 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   </tr>
   <tr>
   <td>12:25 - 12:40</td>
-  <td>Title TBA</td>
+  <td>Neutronics at ISIS</td>
   <td>Steve Lilley</td>
   </tr>
   
@@ -97,7 +97,7 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   </tr>
   <tr>
   <td>14:20 - 14:30</td>
-  <td>Title TBA</td>
+  <td>ROM for neutronics</td>
   <td>Andrew Buchan</td>
   </tr>
   
