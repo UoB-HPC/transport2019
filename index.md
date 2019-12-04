@@ -144,19 +144,19 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
 <img src="survey.png"/>
 
 ### Photos
-[](photos/IMG_2820.jpeg)
-[](photos/IMG_2821.jpeg)
-[](photos/IMG_2822.jpeg)
-[](photos/IMG_2823.jpeg)
-[](photos/IMG_2824.jpeg)
-[](photos/IMG_2825.jpeg)
-[](photos/IMG_2826.jpeg)
-[](photos/IMG_2827.jpeg)
-[](photos/IMG_2828.jpeg)
-[](photos/IMG_2830.jpeg)
-[](photos/IMG_2831.jpeg)
-[](photos/IMG_2832.jpeg)
-[](photos/IMG_2833.jpeg)
+[photo01](photos/IMG_2820.jpeg)
+[photo02](photos/IMG_2821.jpeg)
+[photo03](photos/IMG_2822.jpeg)
+[photo04](photos/IMG_2823.jpeg)
+[photo05](photos/IMG_2824.jpeg)
+[photo06](photos/IMG_2825.jpeg)
+[photo07](photos/IMG_2826.jpeg)
+[photo08](photos/IMG_2827.jpeg)
+[photo09](photos/IMG_2828.jpeg)
+[photo10](photos/IMG_2830.jpeg)
+[photo11](photos/IMG_2831.jpeg)
+[photo12](photos/IMG_2832.jpeg)
+[photo13](photos/IMG_2833.jpeg)
 
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
