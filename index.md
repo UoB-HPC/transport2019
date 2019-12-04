@@ -133,8 +133,7 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   <tr><td colspan="3"><b>Boltzmann discussion</b></td></tr>
   <tr>
   <td>15:50 - 16:00</td>
-  <td>Discussion and wrap up</td>
-  <td></td>
+  <td colspan="2">Discussion and wrap up</td>
   </tr>
   
 </table>
