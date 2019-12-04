@@ -57,17 +57,17 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   <tr><td colspan="3"><b>Neutronics and nuclear applications</b></td></tr>
   
   <tr>
-  <td>11:00 - 11:30</td>
+  <td>11:20 - 11:45</td>
   <td>Adaptivity for Boltzmann</td>
   <td>Giannis Nikiteas</td>
   </tr>
   <tr>
-  <td>11:30 - 12:00</td>
+  <td>11:45 - 12:10</td>
   <td>Transport on many-core architectures</td>
   <td>Tom Deakin</td>
   </tr>
   <tr>
-  <td>12:00 - 12:30</td>
+  <td>12:10 - 12:35</td>
   <td>Industry requirements in nuclear applications</td>
   <td>Paul Smith</td>
   </tr>
