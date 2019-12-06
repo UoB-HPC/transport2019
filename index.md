@@ -73,7 +73,7 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   </tr>
   <tr>
   <td>12:25 - 12:45</td>
-  <td>Neutronics at ISIS</td>
+  <td><a href="slides/spallation_neutronics.pdf">Spallation Neutronics</a></td>
   <td>Steve Lilley</td>
   </tr>
   
