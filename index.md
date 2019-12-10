@@ -59,7 +59,7 @@ This is the rough plan for the day, but the timings are flexible to allow plenty
   <tr>
   <tr>
   <td>11:25 - 11:45</td>
-  <td>Transport on many-core architectures</td>
+  <td><a href="slides/many_core_sweeps.pdf">Transport on many-core architectures</a></td>
   <td>Tom Deakin</td>
   </tr>
   <td>11:45 - 12:05</td>
